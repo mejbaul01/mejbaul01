@@ -52,4 +52,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
 </div>
 
-###
+<h2 align="left">🎮 Mini Game</h2>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/mejbaul01/mejbaul01/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/mejbaul01/mejbaul01/pacman-output/pacman-contribution-graph.svg?game=pacman">
+
+  <img
+    alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/mejbaul01/mejbaul01/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
