@@ -1,10 +1,10 @@
 <h1 align="left">👋 Hi, I'm Mejbaul Karim Mazumder</h1>
 
-<p align="left">Data Analyst | Data Visualization | Python | Excel | SQL | Power BI | Tableau | Presentations</p>
+<p align="left">Data Analyst | Data Visualization | Python | Excel | SQL | Power BI | Tableau | Presentations | Wordpress </p>
 
 <p align="left">
 I help businesses and individuals turn data into clear insights, meaningful visualizations, and professional presentations.
-I work with Python, Excel, SQL, Power BI, and Tableau for data analysis, data cleaning, visualization, and reporting.
+I work with Python, Excel, SQL, Power BI, Wordpress and Tableau for data analysis, data cleaning, visualization, and reporting.
 </p>
 
 <p align="left">
@@ -56,8 +56,6 @@ I work with Python, Excel, SQL, Power BI, and Tableau for data analysis, data cl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop logo" />
-  <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
   <img width="12" />
