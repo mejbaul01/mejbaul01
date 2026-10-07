@@ -1,6 +1,16 @@
 <h1 align="left">👋 Hi, I'm Mejbaul Karim Mazumder</h1>
 
-<p align="left">BBA Student from Bangladesh | Aspiring Data Analyst</p>
+<p align="left">BBA Student | Aspiring Data Analyst | Python & Excel Enthusiast | Open to Opportunities</p>
+
+<p align="left">
+I’m a BBA student from Bangladesh building practical skills in Data Analysis and Data Visualization.
+I work with Python, Pandas, NumPy, Matplotlib, Excel, and SQL, and I enjoy turning data into clear and useful insights.
+</p>
+
+<p align="left">
+🚀 Currently learning, building projects, and looking for opportunities to apply my skills.
+</p>
+
 
 ###
 
@@ -57,10 +67,7 @@
 
   
 
-  
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" height="40" alt="YouTube logo" />
-</div>
+  </div>
 
 
 <h2 align="left">🎮 Mini Game</h2>
