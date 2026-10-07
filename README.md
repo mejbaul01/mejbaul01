@@ -47,13 +47,13 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mejbaul01/mejbaul01/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+    srcset="https://raw.githubusercontent.com/mejbaul01/mejbaul01/output/pacman-contribution-graph-dark.svg">
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/mejbaul01/mejbaul01/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    srcset="https://raw.githubusercontent.com/mejbaul01/mejbaul01/output/pacman-contribution-graph.svg">
 
   <img
     alt="Pac-Man contribution graph"
-    src="https://raw.githubusercontent.com/mejbaul01/mejbaul01/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    src="https://raw.githubusercontent.com/mejbaul01/mejbaul01/output/pacman-contribution-graph.svg">
 </picture>
