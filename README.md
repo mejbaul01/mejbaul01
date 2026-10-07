@@ -70,15 +70,10 @@ I work with Python, Excel, SQL, Power BI, Wordpress and Tableau for data analysi
 
 <h2 align="left">🎮 Mini Game</h2>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mejbaul01/mejbaul01/output/pacman-contribution-graph-dark.svg">
+<p>
+  <img
+    src="https://raw.githubusercontent.com/mejbaul01/mejbaul01/output/pacman-contribution-graph-dark.svg"
+    alt="Pac-Man contribution graph"
+  />
+</p>
 
-<source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/mejbaul01/mejbaul01/output/pacman-contribution-graph.svg">
-
-<img
- alt="Pac-Man contribution graph"
- src="https://raw.githubusercontent.com/mejbaul01/mejbaul01/output/pacman-contribution-graph.svg"> </picture>
