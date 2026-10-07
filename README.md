@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hi, I'm Mejbaul Karim Mazumder</h1>
 
-<p align="left">Data Analyst | Data Visualization | Python | Excel | SQL | Power BI | Tableau | Presentations | Wordpress </p>
+<p align="left">Digital Markerting |Data Analyst | Data Visualization | Python | Excel | SQL | Power BI | Tableau | Presentations | Wordpress </p>
 
 <p align="left">
 I help businesses and individuals turn data into clear insights, meaningful visualizations, and professional presentations.
