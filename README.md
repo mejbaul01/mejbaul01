@@ -1,46 +1,48 @@
-<h1 data-importer="text" align="left">My Introduction. IF you Want Hire Me</h1>
+<h1 align="left">👋 Hi, I'm Mejbaul Karim Mazumder</h1>
+
+<p align="left">BBA Student from Bangladesh | Aspiring Data Analyst</p>
 
 ###
 
-<p data-importer="text" align="left">My name is Mejbaul Karim Mazumder and I'm a Mejbaul, from Bangladesh</p>
+<h2 align="left">About Me</h2>
 
 ###
 
-<h2 data-importer="text" align="left">About me</h2>
+<p align="left">
+🎓 Currently studying BBA<br>
+📊 Learning Data Analysis and Data Visualization<br>
+🐍 Working with Python, Pandas, NumPy and Matplotlib<br>
+📗 Practicing Excel for data analysis<br>
+🗄️ Learning SQL and database concepts<br>
+💻 Building small data analysis projects<br>
+🚀 Sharing my learning journey and projects on GitHub
+</p>
 
 ###
 
-<p data-importer="text" align="left">- 🎓 Currently studying BBA<br>- 📊 Learning Data Analysis and Data Visualization<br>- 🐍 Working with Python, Pandas, NumPy and Matplotlib<br>- 📗 Practicing Excel for data analysis<br>- 🗄️ Learning SQL and database concepts<br>- 💻 Building small data analysis projects<br>- 🚀 Sharing my learning journey and projects on GitHub<br>- 🎓 Currently studying BBA<br>- 📊 Learning Data Analysis and Data Visualization<br>- 🐍 Working with Python, Pandas, NumPy and Matplotlib<br>- 📗 Practicing Excel for data analysis<br>- 🗄️ Learning SQL and database concepts<br>- 💻 Building small data analysis projects<br>- 🚀 Sharing my learning journey and projects on GitHub</p>
+<h2 align="left">🛠️ Tools & Technologies</h2>
 
 ###
 
-<h2 data-importer="text" align="left">Necessary Tools I Can Work :</h2>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress logo" />
 </div>
+
+###
 
 <h2 align="left">🎮 Mini Game</h2>
 
@@ -49,11 +51,10 @@
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/mejbaul01/mejbaul01/output/pacman-contribution-graph-dark.svg">
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/mejbaul01/mejbaul01/output/pacman-contribution-graph.svg">
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/mejbaul01/mejbaul01/output/pacman-contribution-graph.svg">
 
-  <img
-    alt="Pac-Man contribution graph"
-    src="https://raw.githubusercontent.com/mejbaul01/mejbaul01/output/pacman-contribution-graph.svg">
-</picture>
+<img
+ alt="Pac-Man contribution graph"
+ src="https://raw.githubusercontent.com/mejbaul01/mejbaul01/output/pacman-contribution-graph.svg"> </picture>
