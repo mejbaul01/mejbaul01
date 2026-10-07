@@ -1,14 +1,14 @@
 <h1 align="left">👋 Hi, I'm Mejbaul Karim Mazumder</h1>
 
-<p align="left">BBA Student | Aspiring Data Analyst | Python & Excel Enthusiast | Open to Opportunities</p>
+<p align="left">Data Analyst | Data Visualization | Python | Excel | SQL | Power BI | Tableau | Presentations</p>
 
 <p align="left">
-I’m a BBA student from Bangladesh building practical skills in Data Analysis and Data Visualization.
-I work with Python, Pandas, NumPy, Matplotlib, Excel, and SQL, and I enjoy turning data into clear and useful insights.
+I help businesses and individuals turn data into clear insights, meaningful visualizations, and professional presentations.
+I work with Python, Excel, SQL, Power BI, and Tableau for data analysis, data cleaning, visualization, and reporting.
 </p>
 
 <p align="left">
-🚀 Currently learning, building projects, and looking for opportunities to apply my skills.
+💼 Open to freelance projects, internships, and collaboration.
 </p>
 
 
